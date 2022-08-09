@@ -6,6 +6,8 @@
 
 <hr/>
 
+<h3>Some stuff about me</h3>
+
 ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=homoki-denis&show_icons=true&theme=aura)
 
 
