@@ -12,7 +12,7 @@
 [![Denis](https://github-readme-stats.vercel.app/api/top-langs/?username=homoki-denis&layout=compact)](https://github.com/homoki-denis/github-readme-stats)
 
 
-
+<hr/>
 
 <h3>Things I code with</h3>
 
