@@ -1,10 +1,6 @@
 ![MasterHead](https://github.com/homoki-denis/homoki-denis/blob/main/background.png)
 
-
-
-
-
-<p>Welcome to my page! </br> I'm Denis, future Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/> <b>Arad, Romania</b>.</p>
+<h1>Welcome to my page! </br> I'm Denis, future Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/> <b>Arad, Romania</b>.</h1>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
