@@ -6,6 +6,7 @@
 
 ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=homoki-denis&show_icons=true&theme=aura)
 <hr/>
+
 [![Denis](https://github-readme-stats.vercel.app/api/top-langs/?username=homoki-denis&layout=compact)](https://github.com/homoki-denis/github-readme-stats)
 
 
