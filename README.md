@@ -5,6 +5,7 @@
 <p>Welcome to my page! </br> I'm Denis, a future Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/> <b>Arad, Romania</b>.</p>
 
 ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=homoki-denis&show_icons=true&theme=aura)
+[![Denis](https://github-readme-stats.vercel.app/api/top-langs/?username=homoki-denis&layout=compact)](https://github.com/homoki-denis/github-readme-stats)
 
 
 
