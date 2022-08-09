@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/homoki-denis/homoki-denis/blob/main/background.png)
+![MasterHead](https://github.com/homoki-denis/homoki-denis/blob/main/background.png)
 
 <!--
 **homoki-denis/homoki-denis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
