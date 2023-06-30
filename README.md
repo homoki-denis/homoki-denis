@@ -18,8 +18,6 @@
 
 <h3>Things I code with</h3>
 
-[![Badge](https://ggf1ijp8glf3.runkit.sh)](https://git.io/gradientbadge)
-
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
