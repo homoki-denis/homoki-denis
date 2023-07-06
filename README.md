@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I am Denis, a passionate individual who is deeply drawn to the world of front-end technologies. With a strong belief in self-growth, I constantly seek out new challenges to expand my skill set. I find true fulfillment in tackling these challenges head-on, allowing me to push my boundaries and create remarkable, thought-provoking work. 😎<br><br>- 🔭 I’m working as a Front-End Developer<br>- 📚 I'm currently learning Vue.js<br>- ⚡ In my free time I love cycling</p>
+<p align="left">I am Denis, a passionate individual who is deeply drawn to the world of front-end technologies. With a strong belief in self-growth, I constantly seek out new challenges to expand my skill set. I find true fulfillment in tackling these challenges head-on, allowing me to push my boundaries and create remarkable, thought-provoking work. 😎<br><br> 🔭 I’m working as a Front-End Developer<br> 📚 I'm currently learning Vue.js<br> ⚡ In my free time I love cycling</p>
 
 ###
 
