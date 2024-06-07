@@ -5,7 +5,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m working as a Front-End Developer<br>📚 I'm currently learning Cyber Security<br>⚡ In my free time I love cycling<br>
+🔭 I’m working as a Front-End Developer<br>📚 I'm currently learning Back-End<br>⚡ In my free time I love cycling<br>
 
 
 ## 🌐 Socials:
