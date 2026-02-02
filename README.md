@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="background.png"  />
-</div>
-
-###
 
 # 💫 About Me:
 🔭 I’m working as a Front-End Developer<br>📚 I'm currently learning Back-End<br>⚡ In my free time I love cycling<br>
